@@ -17,12 +17,10 @@ An advanced AI agent that demonstrates iterative reasoning (ReAct pattern) by wr
 
 ## 📸 Demo
 
-**Video Demo:** [Insert Link to Your Loom Video Here]
-
 **Live Demo:** [https://colab.research.google.com/drive/1qL_Vxi8whsMX8ft5-Ho2F2-mCs5-Ix8V?usp=sharing]
 
 *Example: The agent successfully writing a prime number function on its first attempt:*
-![Code Example](assets/code_screenshot.png) <!-- Optional -->
+![Code Example](assets/code_screenshot.png) 
 
 ## 🏗️ How It Works
 
