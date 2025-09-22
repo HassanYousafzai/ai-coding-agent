@@ -20,7 +20,7 @@ An advanced AI agent that demonstrates iterative reasoning (ReAct pattern) by wr
 **Live Demo:** [https://colab.research.google.com/drive/1qL_Vxi8whsMX8ft5-Ho2F2-mCs5-Ix8V?usp=sharing]
 
 *Example: The agent successfully writing a prime number function on its first attempt:*
-![Code Example](assets/code_screenshot.png) 
+![Code Example](assets/code_screenshot.PNG) 
 
 ## 🏗️ How It Works
 
